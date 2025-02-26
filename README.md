@@ -29,7 +29,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/](https://github.com/GuidoPenta/awesome-tech-memes/blob/main/assets/images/project-idea.png/" width="512px"/>
+<img src="https://github.com/GuidoPenta/awesome-tech-memes/blob/main/assets/images/project-idea.png?raw=true" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ksvishal07&icon=0&color=0)](https://visitcount.itsvg.in)
