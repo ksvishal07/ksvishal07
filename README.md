@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I’m currently working on AmbiQuick
+🔭 I’m currently working on Advance Sales and Inventory Forecasting
 
 🌱 I’m currently learning Full Stack
 
