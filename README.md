@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I’m currently working on Advance Sales and Inventory Forecasting
+🔭 I’m currently working on Advance Sales and Inventory Forecasting project
 
 🌱 I’m currently learning Full Stack
 
