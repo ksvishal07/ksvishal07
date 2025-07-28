@@ -1,32 +1,118 @@
-# 💫About Me :
-🔭 I’m currently working on Advance Sales and Inventory Forecasting project
+# VISHAL K S
 
-🌱 I’m currently learning Full Stack
+```typescript
+const profile = {
+  name: "VISHAL K S",
+  bio: "Full-stack developer crafting intuitive digital experiences with creativity and precision 🚀 Always building, always evolving.",
+  skills: [
+    "Bootstrap",
+    "CSS3",
+    "HTML5",
+    "MySQL",
+    "MongoDB",
+    "Azure",
+    "Android",
+    "JavaScript",
+    "Java",
+    "PHP",
+    "C",
+    "Python"
+  ],
+}
+```
 
-💬 Ask me about Java and Python
+## 👀 Visitor Count
 
-📫 How to reach me ksvishal07@gmail.com
+<!-- ⚠️ Important: Replace 'ksvishal07' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ksvishal07/count.svg" />
+  <br>Thank you for visiting my profile! Come back soon!
+</p>
 
-⚡ Fun fact I can debug code in my sleep... literally, I've solved bugs after waking up!
+## 🏆 GitHub Trophies
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-k-s-29268125a/) 
+<!-- ⚠️ Important: Replace 'ksvishal07' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ksvishal07&theme=onedark&column=7&margin-w=15&margin-h=15" />
+</p>
 
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=ksvishal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ksvishal07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ksvishal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=ksvishal07&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+<!-- ⚠️ Important: Replace 'ksvishal07' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ksvishal07&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 
-### 🧑‍💻Random Cyber Quote
-![](https://github-readme-cyber-quotes.vercel.app/api?type=horizontal&theme=dark)
+## 🔝 Most Used Languages
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!-- ⚠️ Important: Replace 'ksvishal07' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksvishal07&layout=compact&langs_count=10&theme=dark"/>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=ksvishal07&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🔥 Contribution Streak
+
+<!-- ⚠️ Important: Replace 'ksvishal07' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksvishal07&theme=dark&hide_border=false" />
+</div>
+
+## 💻 Tech Stack
+
+```json
+{
+  "frontend": [
+    "Bootstrap",
+    "CSS3",
+    "HTML5"
+  ],
+  "backend": [
+    "MySQL",
+    "MongoDB"
+  ],
+  "devops": [
+    "Azure"
+  ],
+  "mobile": [
+    "Android"
+  ],
+  "languages": [
+    "JavaScript",
+    "Java",
+    "PHP",
+    "C",
+    "Python"
+  ]
+}
+```
+
+## 🌐 Socials
+
+```javascript
+const socials = {
+  github: "ksvishal07",
+  linkedin: "https://www.linkedin.com/in/vishal-k-s-29268125a/",
+  website: "https://ksvishal07.github.io/Portfolio/",
+  instagram: "https://www.instagram.com/vishalvsekar/",
+  leetcode: "https://leetcode.com/u/Vishal_K_S/",
+}
+```
+
+<div>
+<a href="https://www.linkedin.com/in/vishal-k-s-29268125a/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://ksvishal07.github.io/Portfolio/"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white" /></a> <a href="https://github.com/ksvishal07"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.instagram.com/vishalvsekar/"><img src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://leetcode.com/u/Vishal_K_S/"><img src="https://img.shields.io/badge/leetcode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a> 
+</div>
+
+## 📫 How to reach me
+
+```javascript
+const contact = {
+  email: "ksvishal07@gmail.com",
+}
+```
+
+```typescript
+// Thanks for visiting my profile!
+console.log("Let's connect and collaborate on exciting projects!");
+
+process.exit(0); // Until next time 👋
+```
