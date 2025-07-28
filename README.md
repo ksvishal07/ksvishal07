@@ -1,14 +1,15 @@
-# Hi 👋 I'm VISHAL K S
+# 👋 Hi, I'm VISHAL K S
 
-**Full-stack developer crafting intuitive digital experiences with creativity and precision 🚀 Always building, always evolving.**
+**💻 Full-Stack Developer | Crafting Intuitive Digital Experiences with Precision & Passion 🚀**  
+*Always building. Always evolving.*
 
 ---
 
-## 👀 Visitor Count
+## 👁️‍🗨️ Visitor Count
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/ksvishal07/count.svg" />
-  <br><sub>Thank you for visiting my profile! Come back soon!</sub>
+  <img src="https://profile-counter.glitch.me/ksvishal07/count.svg" alt="Visitor Count" />
+  <br><sub>Thanks for stopping by! Come back again soon 😊</sub>
 </p>
 
 ---
@@ -16,76 +17,74 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ksvishal07&theme=flat&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ksvishal07&theme=flat&column=6&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ksvishal07&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
-</div>
-
----
-
-## 🔝 Most Used Languages
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksvishal07&layout=compact&langs_count=10&theme=default" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ksvishal07&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksvishal07&layout=compact&langs_count=8&theme=vue-dark" height="180em" />
+</p>
 
 ---
 
 ## 🔥 Contribution Streak
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksvishal07&theme=default&hide_border=false" />
-</div>
-
----
-
-## 💻 Tech Stack
-
-### 🎨 Frontend
-![Bootstrap](https://img.shields.io/badge/Bootstrap-ff69b4?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white)
-
-### ⚙️ Backend
-![MySQL](https://img.shields.io/badge/MySQL-4169e1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4169e1?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🚀 DevOps
-![Azure](https://img.shields.io/badge/Azure-9370db?style=for-the-badge&logo=azure&logoColor=white)
-
-### 💬 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-FFA500?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-FFA500?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white)
-
-### 📱 Mobile
-![Android](https://img.shields.io/badge/Android-3CB371?style=for-the-badge&logo=android&logoColor=white)
-
----
-
-## 🌐 Socials
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishal-k-s-29268125a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ksvishal07"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksvishal07&theme=vue-dark&hide_border=true" alt="Streak" />
 </p>
 
 ---
 
-## 📫 How to Reach Me
+## 🧰 Tech Stack
 
-📧 Email: [ksvishal07@gmail.com](mailto:ksvishal07@gmail.com)
+### 💡 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🛠️ Backend & DB
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 Dev Tools & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### 📱 Mobile
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### 🌐 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+---
+
+## 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishal-k-s-29268125a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ksvishal07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+## 📫 Contact Me
+
+**📩 Email:** [ksvishal07@gmail.com](mailto:ksvishal07@gmail.com)
 
 ---
 
 <p align="center">
-  <sub>⭐️ From <a href="https://github.com/ksvishal07">VISHAL K S</a></sub>
+  <sub>✨ Made with passion by <a href="https://github.com/ksvishal07">VISHAL K S</a> ✨</sub>
 </p>
