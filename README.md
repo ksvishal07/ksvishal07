@@ -5,15 +5,6 @@
 
 ---
 
-## 👁️‍🗨️ Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ksvishal07/count.svg" alt="Visitor Count" />
-  <br><sub>Thanks for stopping by! Come back again soon 😊</sub>
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
